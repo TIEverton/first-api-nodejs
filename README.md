@@ -31,7 +31,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/TIEverton/firts-api-nodejs.git && cd firts-api-nodejs
+$ git clone https://github.com/TIEverton/first-api-nodejs.git && cd first-api-nodejs
 ```
 
 Follow the steps below
