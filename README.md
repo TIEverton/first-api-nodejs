@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/evertonpinheiroti/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </a>
   <img src="https://img.shields.io/static/v1?label=JSTACK&style=for-the-badge&message=FIRST-API&color=8257E5&labelColor=000000" alt="FIRST API" />
-  <a href="https://github.com/TIEverton/first-api-nodejs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/TIEverton/first-api-nodejs?color=8257E5&logo=github&style=for-the-badge">
-  </a>
 </p>
 
 <br>
